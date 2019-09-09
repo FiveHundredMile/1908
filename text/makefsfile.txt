@@ -1,0 +1,5 @@
+makefsfile -i fs -o fs_lxx.h
+
+
+其中		fs是站点文件夹
+		fs_lxx是转换后的十六进制.h文件
